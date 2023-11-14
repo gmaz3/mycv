@@ -39,12 +39,12 @@ sidebar:
         - idiom: English
           level: Professional
 
+        - idiom: French
+          level: Basic
+          
     interests:
       title: Interests
       info:
-        - item: Gym
-          link:
-
         - item: Football
           link:
 
@@ -57,13 +57,17 @@ sidebar:
         - item: Climbing
           link:
           
-        - item: Read
+        - item: Psicology
+          link:
+          
+        - item: Literature
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Website in progress
+      Website in progress...
+
       Ingeniero Informático en la Universidad de Granada con experiencia como Data Scientist en ATG Analytical. 
       Mi enfoque se centra en el análisis de datos para la toma de decisiones estratégicas dentro de la Industria 4.0. Además, he asumido roles operativos, 
       demostrando versatilidad y habilidades técnicas sólidas. Acabo las prácticas en diciembre y estoy abierto a nuevas oportunidades
@@ -79,9 +83,14 @@ experiences:
           focuses on the 4.0 Industry. My work as a data scientist has consisted of data preparation, model development, and deployment as well as
           production support. As a small company with limited IT expertise, I have been actively involved in important meetings and decision-making
           since day one.
-          
-        #PCA, time series predictions, prophet, git, selenium, logrotation, cron 
+            - Time Series predictions
+            - Principal Component Analysis (PCA)
+            - Data Visualization
+            - Process automation
+            - Git
 
+        # Qlikview and Grafana
+          
 education:
     title: Education
     info:
@@ -89,11 +98,14 @@ education:
         university: University of Granada
         time: 2018 - 2023
         details: |
-
-        #
-
-          
-
+          Oficially named Grado en Ingeniería Informática is 4 year degree. Specialized in Computación y Sistemas Inteligentes wich is the specialization
+          for Artificial Intelligence experts. Additionally, I have done one year of exchange with the Erasmus+ program at the University of Ioannina
+           in Greece. Degree mark: 7.038/10
+          - Mathematic
+          - Statistic
+          - Computer Vision
+          - Machine Learning
+          - Artificial Intelligence
 
 
 certifications:
@@ -104,70 +116,42 @@ certifications:
           end: 
           organization: Google
           credentialid:
-          credentialurl: https://www.cloudskillsboost.google/
+          credentialurl: www.cloudskillsboost.google/paths/9
           credentialname: Cloud Skill Boost
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-
-        - name: "Data Analyst"
+        - name: Data Analyst Learning Path
           start: 2023
           end: 
           organization: Google
           credentialid: 
-          credentialurl: https://www.cloudskillsboost.google/
+          credentialurl: www.cloudskillsboost.google/paths/18
           credentialname: Cloud Skill Boost
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
         - name: "MOOC: Machine Learning y Big Data para la Bioinformática"
           start: 2021
           end: 
           organization: University of Granada
           credentialid: 
-          credentialurl: https://abierta.ugr.es/my/
+          credentialurl: abierta.ugr.es
           credentialname: UGR
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a side where I spent my spend my spare time:
     assignments:
-      - title: Yellow Flag Prediction
+      - title: Yellow Flag Predictions
         link: "www.github.es"
-        tagline: "An own project to practice classic machine learning algorithms learned in the CS 4780 Machine Learning course of Cornell University."
+        tagline: "An own project to practice classic machine learning algorithms learned in the 
+          CS 4780 Machine Learning course of Cornell University. Is a classification problem where I 
+          have study different models as Logistic Regresion, SVM or Decision Trees using scikit-learn library. Currently I am working on the dataframe
+          crafting."
       
-      - title: 
-
 # oss:
 #     title: OSS Contributions
 #     intro: >
@@ -227,6 +211,9 @@ skills:
 
       - name: Java
         level: 85%
+
+      - name: SQL
+        level: 80%
 
       - name: Docker
         level: 75%
