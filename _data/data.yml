@@ -48,6 +48,9 @@ sidebar:
         - item: Football
           link:
 
+        - item: Formula 1
+          link:
+
         - item: Cycling
           link:
 
@@ -60,6 +63,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      Website in progress
       Ingeniero Informático en la Universidad de Granada con experiencia como Data Scientist en ATG Analytical. 
       Mi enfoque se centra en el análisis de datos para la toma de decisiones estratégicas dentro de la Industria 4.0. Además, he asumido roles operativos, 
       demostrando versatilidad y habilidades técnicas sólidas. Acabo las prácticas en diciembre y estoy abierto a nuevas oportunidades
@@ -75,6 +79,8 @@ experiences:
           focuses on the 4.0 Industry. My work as a data scientist has consisted of data preparation, model development, and deployment as well as
           production support. As a small company with limited IT expertise, I have been actively involved in important meetings and decision-making
           since day one.
+          
+        #PCA, time series predictions, prophet, git, selenium, logrotation, cron 
 
 education:
     title: Education
@@ -83,6 +89,9 @@ education:
         university: University of Granada
         time: 2018 - 2023
         details: |
+
+        #
+
           
 
 
@@ -156,6 +165,8 @@ projects:
       - title: Yellow Flag Prediction
         link: "www.github.es"
         tagline: "An own project to practice classic machine learning algorithms learned in the CS 4780 Machine Learning course of Cornell University."
+      
+      - title: 
 
 # oss:
 #     title: OSS Contributions
@@ -218,6 +229,9 @@ skills:
         level: 85%
 
       - name: Docker
+        level: 75%
+
+      - name: Grafana
         level: 75%
 
       - name: fast.ai
