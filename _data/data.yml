@@ -66,13 +66,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Enthusiastic computer scientist with 9 months of worthwhile work experience. I am looking for a corporate workplace where I can pursue my final degree
+      Enthusiastic data scientist with 9 months of worthwhile work experience. I am looking for a corporate workplace where I can pursue my final degree
        project. Dedicated, cheerful, inspired, a good partner and eager to learn and grow.   
 
 experiences:
     title: Experiences
     info:
-      - role: Computer Scientist
+      - role: Data Scientist
         time: March 2023 - Today
         company: ATG Analytical, Granada
         details: |
