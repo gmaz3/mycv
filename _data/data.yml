@@ -57,7 +57,7 @@ sidebar:
         - item: Climbing
           link:
           
-        - item: Psicology
+        - item: Psychology
           link:
           
         - item: Literature
@@ -80,9 +80,9 @@ experiences:
           focuses on the 4.0 Industry. My work as a data scientist has consisted of data preparation, model development, and deployment as well as
           production support. As a small company with limited IT expertise, I have been actively involved in important meetings and decision-making
           since day one.
-            - Time Series predictions
-            - Principal Component Analysis (PCA)
-            - Data Visualization
+            - Time series predictions
+            - Dimension reduction (PCA)
+            - Data visualization
             - Process automation
             - Git
 
@@ -95,14 +95,15 @@ education:
         university: University of Granada
         time: 2018 - 2023
         details: |
-          Oficially named Grado en Ingeniería Informática is 4 year degree. Specialized in Computación y Sistemas Inteligentes wich is the specialization
+          Officially named Grado en Ingeniería Informática is 4 year degree. Specialized in Computación y Sistemas Inteligentes which is the specialization
           for Artificial Intelligence experts. Additionally, I have done one year of exchange with the Erasmus+ program at the University of Ioannina
            in Greece. Degree mark: 7.038/10
-          - Mathematic
+          - Mathematics
           - Statistic
-          - Computer Vision
-          - Machine Learning
-          - Artificial Intelligence
+          - Computer vision
+          - Machine learning
+          - Artificial intelligence
+          - Databases
 
 
 certifications:
@@ -137,17 +138,17 @@ certifications:
           details: |
 
 
-projects:
-    title: Projects
-    intro: >
-      Here is a side where I spent my spend my spare time:
-    assignments:
-      - title: Yellow Flag Predictions
-        link: "www.github.es"
-        tagline: "An own project to practice classic machine learning algorithms learned in the 
-          CS 4780 Machine Learning course of Cornell University. Is a classification problem where I 
-          have study different models as Logistic Regresion, SVM or Decision Trees using scikit-learn library. Currently I am working on the dataframe
-          crafting."
+# projects:
+#     title: Projects
+#     intro: >
+#       Here is a side where I spent my spend my spare time:
+#     assignments:
+#       - title: Yellow Flag Predictions
+#         link: "www.github.es"
+#         tagline: "An own project to practice classic machine learning algorithms learned in the 
+#           CS 4780 Machine Learning course of Cornell University. Is a classification problem where I 
+#           have study different models as Logistic Regression, SVM or Decision Trees using scikit-learn library. Currently I am working on the dataframe
+#           crafting."
       
 # oss:
 #     title: OSS Contributions
